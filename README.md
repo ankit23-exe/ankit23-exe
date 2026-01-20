@@ -20,7 +20,7 @@
 
 ```javascript
 const ankit = {
-    pronouns: "He" | "Him",
+    pronouns: "He/Him",
     code: ["JavaScript", "Python", "Java", "C++", "HTML/CSS"],
     askMeAbout: ["web dev", "tech", "anime", "gaming"],
     technologies: {
@@ -105,7 +105,7 @@ const ankit = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit23-exe&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit23-exe&theme=radical&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -134,6 +134,7 @@ const ankit = {
 
 <div align="center">
 
+<!-- Update the links below with your actual social media profiles -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
