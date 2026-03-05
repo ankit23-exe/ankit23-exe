@@ -3,9 +3,9 @@
 
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ankit+%F0%9F%91%8B;Welcome+to+my+Profile!;Let's+code+together!+%F0%9F%9A%80" alt="Typing SVG" />
-  </h1>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNpeGtpZmlrN3Nvczd0bzE2bm81cHN5bWY5Z2dpZDJkbXIwZzBraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"/>
+<h5><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNpeGtpZmlrN3Nvczd0bzE2bm81cHN5bWY5Z2dpZDJkbXIwZzBraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+
 
 
 
@@ -68,9 +68,7 @@ const ankit = {
 
 🧠 **CS Foundations:** DSA • OOP • OS • DBMS • Computer Networks
 
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Anime coding">
-</div>
+
 
 ## 📊 GitHub Stats
 
@@ -83,9 +81,6 @@ const ankit = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit23-exe&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit23-exe&theme=radical&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph"/>
-</div>
 
 
 
