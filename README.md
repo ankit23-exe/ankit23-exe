@@ -1,112 +1,149 @@
 <div align="center">
+<img width="914" height="129" alt="image" src="https://github.com/user-attachments/assets/51899aa3-0fc5-43ec-929f-5ee31617192c" />
 
 
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ankit+%F0%9F%91%8B;Welcome+to+my+Profile!;Let's+code+together!+%F0%9F%9A%80" alt="Typing SVG" />
+<br/>
 
-<h5><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNpeGtpZmlrN3Nvczd0bzE2bm81cHN5bWY5Z2dpZDJkbXIwZzBraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+<img src="https://komarev.com/ghpvc/?username=ankit23-exe&color=941295&label=Profile+Visits" alt="Profile Visits" width="150"/>
 
-
-
-
-  <p>
-    <em>A passionate developer exploring the vast universe of code! ✨</em>
-  </p>
-
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<br>
+---
 
-## 🌸 About Me
+<div align="center">
 
-```javascript
-const ankit = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "Python", "Java", "C++", "HTML/CSS"],
-    askMeAbout: ["web dev", "tech", "anime", "gaming"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-           
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        misc: ["Firebase", "Docker", "Git"]
-    },
-    currentFocus: "Building awesome projects and learning new technologies",
-    funFact: "I debug with console.log() more than I'd like to admit! 😅"
-};
+## 📊 My GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit23-exe&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="" height="160" />
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit23-exe&theme=radical&hide_border=true" height="160" />
+&nbsp;&nbsp;
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/ankit23-exe?cardType=level&theme=radical&fontFamily=&preferLogin=false" height="160" />
+
+<br/><br/>
+
+
+</div>
+
+---
+
+## 📌 Pinned Projects
+
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/ankit23-exe/ASTREA">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit23-exe&repo=ASTREA&theme=radical&hide_border=true&border_radius=15" />
+</a>
+
+<a href="https://github.com/ankit23-exe/DSA-Tracker">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit23-exe&repo=DSA-Tracker&theme=radical&hide_border=true&border_radius=15" />
+</a>
+
+<a href="https://github.com/ankit23-exe/real-time-pool-rooms">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit23-exe&repo=real-time-pool-rooms&theme=radical&hide_border=true&border_radius=15" />
+</a>
+
+<a href="https://github.com/ankit23-exe/typing-test-cli">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit23-exe&repo=typing-test-cli&theme=radical&hide_border=true&border_radius=15" />
+</a>
+
+</div>
+
+
+---
+
+<details>
+<summary align="center"><b>✨ More about me ✨</b></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/QWJvdXQgbWU6/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=19" alt="About me:" />
+
+</div>
+
 ```
 
+Name       :  Ankit
+From       :  Noida, Uttar Pradesh, India
+Education  :  B.Tech in Information Technology
+              JSS Academy of Technical Education — 3rd Year
+Interests  :  Gaming, coding, and doing things my own way ⚡
+Quote      :  Nobody cares, work hard to get better everyday.
+```
 
-
-
-
-##  Tech stack
-
-### 💻 Languages
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="40"/>
-
-### 🌐 Frontend
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" width="40"/>
-
-### 🧠 Backend & APIs
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" width="40"/>
-
-### 💾 Databases & Cache
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" width="40"/>
-
-### 🤖 AI / LLM
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" width="40"/>
-
-### ⚙️ DevOps & Tools
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="40"/>
-
-🧠 **CS Foundations:** DSA • OOP • OS • DBMS • Computer Networks
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit23-exe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit23-exe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit23-exe&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak"/>
-</div>
-
-
-
-
-## 🤝 Connect With Me
+---
 
 <div align="center">
 
-<!-- Update the links below with your actual social media profiles -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit23-exe)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ankit23_exe)
-<!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver) -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitgupta23sep@gmail.com)
+<img src="https://see.fontimg.com/api/rf5/xJyV/NWZkYzVmZWZiNjk4NDcyYzk3NWEzZTYwM2EzOGYxYzYudHRm/VGhpbmdzIEkga25vdyA6/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=19" alt="Things I know :" />
 
-</div>
+<br/>
+
+<h2 align="center">⚒️ Current Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+</p>
+
+<h2 align="center">🚀 Technologies & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,postgres,redis,docker,rabbitmq,aws,azure,git,github,postman" />
+</p>
 
 
+---
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
-  ### ✨ Show some ❤️ by starring some repositories! ✨
-  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit23-exe&label=Profile%20views&color=0e75b6&style=flat" alt="ankit23-exe" /> </p>
-  
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+
+<img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/Q29kaW5nIFByb2ZpbGVzIDo/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=19" alt="Coding Profiles :" />
+
+<br/>
+
+<a href="https://leetcode.com/u/bT2yozdAA3/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="LeetCode" height="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/ankitgupxnei">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/gfg" alt="gfg" height="50" />
+</a>
+
 </div>
+
+---
+
+<img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/U29jaWFscyA6/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=19" alt="Socials :" />
+
+
+
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankith)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit23-exe)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankit23_exe)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JSmCZVzfZv)
+
+<br/>
+
+📬 Or reach me at &nbsp; <a href="mailto:ankitgupta23sep@gmail.com"><b>ankitgupta23sep@gmail.com</b></a>
+
+</div>
+
+---
+
+<div align="center">
+
+
+&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Reenie+Beanie&weight=500&duration=3000&pause=500&color=F4AAF7&width=435&lines=Thank+you+for+visiting+!" alt="Thank you for visiting!" />
+
+</div>
+
+</details>
+
