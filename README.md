@@ -105,31 +105,52 @@ Quote      :  Nobody cares, work hard to get better everyday.
 <img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/Q29kaW5nIFByb2ZpbGVzIDo/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=19" alt="Coding Profiles :" />
 
 <br/>
+<br/>
 
-<a href="https://leetcode.com/u/bT2yozdAA3/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="LeetCode" height="50" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/profile/ankitgupxnei">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/gfg" alt="gfg" height="50" />
-</a>
+<p align="center">
+  <a href="https://leetcode.com/u/bT2yozdAA3/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="LeetCode" height="50" />
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+
+  
+  <a href="https://www.geeksforgeeks.org/user/ankitgupxnei/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="50" />
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+
+  
+  <a href="https://www.codechef.com/users/ankit23_exe">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="50" />
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+  <a href="https://codeforces.com/profile/ankit23-exe">
+    <img src="https://sta.codeforces.com/s/91837/images/codeforces-sponsored-by-ton.png" alt="Codeforces" height="50" />
+  </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
 
 </div>
 
 ---
 
 <img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/U29jaWFscyA6/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=19" alt="Socials :" />
-
-
-
+<br/>
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankith)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit23.exe)
+&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit23-exe)
+&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankit23_exe)
+&nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JSmCZVzfZv)
 
-<br/>
+
+
 
 📬 Or reach me at &nbsp; <a href="mailto:ankitgupta23sep@gmail.com"><b>ankitgupta23sep@gmail.com</b></a>
 
