@@ -50,19 +50,19 @@
 
 <img src="https://see.fontimg.com/api/rf5/ddll/NTEyMGI0OTA5NTQ0NDk0YWJhNTkxYTAyYmZiMmVlOWYudHRm/QWJvdXQgbWU6/dk-crayon-crumble.png?r=fs&h=31&w=1650&fg=E982C0&bg=FFFFFF&tb=1&s=19" alt="About me:" />
 
+<div align="left">
 
-
-```
-
-Name       :  Ankit
+<pre>
+Name       :  Ankit Gupta
 From       :  Noida, Uttar Pradesh, India
 Education  :  B.Tech in Information Technology
               JSS Academy of Technical Education — 3rd Year
 Interests  :  Gaming, coding, and doing things my own way ⚡
-Quote      :  Nobody cares, work hard to get better everyday.
-```
+Quote      :  Nobody cares. Work hard. Get better every day.
+</pre>
 
----
+</div>
+
 
 
 
