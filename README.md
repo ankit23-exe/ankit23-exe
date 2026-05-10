@@ -1,9 +1,9 @@
 <div align="center">
-<img width="914" height="129" alt="image" src="https://github.com/user-attachments/assets/51899aa3-0fc5-43ec-929f-5ee31617192c" />
-
-
+<img width="950"  alt="image" src="https://github.com/user-attachments/assets/ae5ada1c-00f2-4223-92cb-400be6498ee1" />
 <br/>
+&nbsp;&nbsp;
 
+&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=ankit23-exe&color=941295&label=Profile+Visits" alt="Profile Visits" width="150"/>
 
 </div>
@@ -13,6 +13,7 @@
 <div align="center">
 
 ## 📊 My GitHub Stats
+&nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit23-exe&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="" height="160" />
 &nbsp;&nbsp;
@@ -26,33 +27,17 @@
 </div>
 
 ---
-
-## 📌 Pinned Projects
-
-
-
-
-
 <div align="center">
+  
+## 📈 The Grind Never Stops
 
-<a href="https://github.com/ankit23-exe/ASTREA">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit23-exe&repo=ASTREA&theme=radical&hide_border=true&border_radius=15" />
-</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+ 
+<img width="553"  alt="image" src="https://github.com/user-attachments/assets/6ebe4a92-bacb-4b87-9c67-b3a24c0131df" />
 
-<a href="https://github.com/ankit23-exe/DSA-Tracker">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit23-exe&repo=DSA-Tracker&theme=radical&hide_border=true&border_radius=15" />
-</a>
-
-<a href="https://github.com/ankit23-exe/real-time-pool-rooms">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit23-exe&repo=real-time-pool-rooms&theme=radical&hide_border=true&border_radius=15" />
-</a>
-
-<a href="https://github.com/ankit23-exe/typing-test-cli">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit23-exe&repo=typing-test-cli&theme=radical&hide_border=true&border_radius=15" />
-</a>
-
-</div>
-
+</p>
+<div/>
 
 ---
 
