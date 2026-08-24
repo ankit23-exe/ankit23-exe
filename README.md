@@ -56,7 +56,7 @@
 Name       :  Ankit Gupta
 From       :  Noida, Uttar Pradesh, India
 Education  :  B.Tech in Information Technology
-              JSS Academy of Technical Education — 3rd Year
+              JSS Academy of Technical Education — 4th Year
 Interests  :  Gaming, coding, and doing things my own way ⚡
 Quote      :  Nobody cares. Work hard. Get better every day.
 </pre>
